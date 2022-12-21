@@ -1,7 +1,7 @@
 # import pyttsx3
 # import PyPDF2
 
-# book = open('D:\projects\Audio Book\python.pdf', 'rb')
+# book = open('D:\projects\Audio Book\pytho.pdf', 'rb')
 # pdfReader = PyPDF2.PdfFileReader(book)
 # pages = pdfReader.numPages
 # print("Total pages")
